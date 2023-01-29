@@ -1,0 +1,27 @@
+{
+  "name": "problem-solving-with-js",
+  "version": "1.0.0",
+  "description": "Problem solving with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vietantran1215/problem-solving-with-js.git"
+  },
+  "keywords": [
+    "coding",
+    "problem",
+    "solving"
+  ],
+  "author": "An Tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vietantran1215/problem-solving-with-js/issues"
+  },
+  "homepage": "https://github.com/vietantran1215/problem-solving-with-js#readme",
+  "devDependencies": {
+    "jest": "^29.4.1"
+  }
+}
