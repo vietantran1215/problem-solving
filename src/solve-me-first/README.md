@@ -1,6 +1,6 @@
 # Solve me first
 
-Complete the function `solveMeFirst` to compute the sum of two integers.
+Complete the function `solveMeFirst` to compute the sum of two positive integers.
 
 ### Example
 a = 7, b = 3
@@ -17,5 +17,5 @@ Complete the `solveMeFirst` function in the editor below.
 int a: the first value
 int b: the second value
 
-Returns
+#### Returns
 - int: the sum of `a` and `b`
